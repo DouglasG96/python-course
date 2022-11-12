@@ -74,6 +74,8 @@ print(my_new_list)
 my_new_list.sort() #Ordena de mayor a menor la lista u orden alfabetico
 print(my_new_list)
 
+print(my_new_list[1:2]) #Sublistas en base a indices
+
 my_list = "hola Python"
 
 print(my_list)
